@@ -32,14 +32,6 @@ uploads/
 *.text
 *.log
 
-# Environment and sensitive data
-.env
-.env.local
-
-# Dependency and Build folders
-node_modules/
-dist/
-build/
 
 # OS specific files
 .DS_Store
